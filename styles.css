@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  margin-top: 0;
+}
+
+header {
+  background-color: rgb(12, 78, 78);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: rgb(9, 211, 184);
+}
+
+button {
+  width: 3cm;
+  height: 1cm;
+  background-color: rgb(243, 50, 140);
+}
+
+img {
+  height: 100px;
+  justify-content: left;
+}
